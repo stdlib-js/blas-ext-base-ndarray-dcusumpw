@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-03)
+## Unreleased (2026-04-19)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`67cdf3c`](https://github.com/stdlib-js/stdlib/commit/67cdf3cc8be241859493c2da00974d595eef73cb) - **chore:** propagate recent doctest and lint fixes to sibling packages [(#11585)](https://github.com/stdlib-js/stdlib/pull/11585) _(by Philipp Burckhardt)_
 -   [`f834c92`](https://github.com/stdlib-js/stdlib/commit/f834c92ade215691ff1d2d5cf36894e8ed697ffe) - **bench:** refactor to use string interpolation in `blas/ext/base/ndarray/dcusumpw` [(#10329)](https://github.com/stdlib-js/stdlib/pull/10329) _(by AyushiJain18270)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   AyushiJain18270
+-   Philipp Burckhardt
 
 </section>
 
